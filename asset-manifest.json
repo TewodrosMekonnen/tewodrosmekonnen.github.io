@@ -1,38 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.652d7e22.chunk.css",
-    "main.js": "/static/js/main.994f3235.chunk.js",
-    "main.js.map": "/static/js/main.994f3235.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9412c5a0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9412c5a0.js.map",
-    "static/js/2.1bdb8d8b.chunk.js": "/static/js/2.1bdb8d8b.chunk.js",
-    "static/js/2.1bdb8d8b.chunk.js.map": "/static/js/2.1bdb8d8b.chunk.js.map",
+    "main.css": "/static/css/main.26288e23.css",
+    "main.js": "/static/js/main.27a8210d.js",
+    "static/js/787.3247d998.chunk.js": "/static/js/787.3247d998.chunk.js",
     "index.html": "/index.html",
-    "static/css/main.652d7e22.chunk.css.map": "/static/css/main.652d7e22.chunk.css.map",
-    "static/js/2.1bdb8d8b.chunk.js.LICENSE.txt": "/static/js/2.1bdb8d8b.chunk.js.LICENSE.txt",
-    "static/media/about.65751d4c.png": "/static/media/about.65751d4c.png",
-    "static/media/address.28067e7d.png": "/static/media/address.28067e7d.png",
-    "static/media/award.b5ebf163.png": "/static/media/award.b5ebf163.png",
-    "static/media/email.99157adb.png": "/static/media/email.99157adb.png",
-    "static/media/fb.6c73a2d7.png": "/static/media/fb.6c73a2d7.png",
-    "static/media/fbr.f22f3f05.png": "/static/media/fbr.f22f3f05.png",
-    "static/media/ins.d7f7f981.png": "/static/media/ins.d7f7f981.png",
-    "static/media/insr.d2481c3a.png": "/static/media/insr.d2481c3a.png",
-    "static/media/link.93d23531.png": "/static/media/link.93d23531.png",
-    "static/media/linkr.cc4d3c8e.png": "/static/media/linkr.cc4d3c8e.png",
-    "static/media/me.03ec4161.png": "/static/media/me.03ec4161.png",
-    "static/media/moon.d0911943.png": "/static/media/moon.d0911943.png",
-    "static/media/phone.d276e649.png": "/static/media/phone.d276e649.png",
-    "static/media/sun.f794832a.png": "/static/media/sun.f794832a.png",
-    "static/media/tele.34b4ffd2.png": "/static/media/tele.34b4ffd2.png",
-    "static/media/teler.217d34c0.png": "/static/media/teler.217d34c0.png",
-    "static/media/tiw.1cabdf66.png": "/static/media/tiw.1cabdf66.png",
-    "static/media/tiwr.a98770e7.png": "/static/media/tiwr.a98770e7.png"
+    "main.26288e23.css.map": "/static/css/main.26288e23.css.map",
+    "main.27a8210d.js.map": "/static/js/main.27a8210d.js.map",
+    "787.3247d998.chunk.js.map": "/static/js/787.3247d998.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.9412c5a0.js",
-    "static/js/2.1bdb8d8b.chunk.js",
-    "static/css/main.652d7e22.chunk.css",
-    "static/js/main.994f3235.chunk.js"
+    "static/css/main.26288e23.css",
+    "static/js/main.27a8210d.js"
   ]
 }
